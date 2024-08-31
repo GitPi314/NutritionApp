@@ -1,0 +1,372 @@
+[
+    {
+        "product_name": "3K PROTEIN SHAKE Stracciatella (Pulver), Layenberger",
+        "main_nutrients": {
+            "Broteinheiten": {
+                "amount": "",
+                "unit": "BE"
+            },
+            "Kilokalorien": {
+                "amount": "369",
+                "unit": "kcal"
+            },
+            "Kilojoule": {
+                "amount": "1564",
+                "unit": "kj"
+            },
+            "Eiweiß": {
+                "amount": "80,00",
+                "unit": "g"
+            },
+            "Fett": {
+                "amount": "3,40",
+                "unit": "g"
+            },
+            "Kohlenhydrate": {
+                "amount": "3,50",
+                "unit": "g"
+            },
+            "Alkohol": {
+                "amount": "",
+                "unit": "g"
+            },
+            "Wasser": {
+                "amount": "",
+                "unit": "g"
+            },
+            "Ballaststoffe gesamt": {
+                "amount": "1,30",
+                "unit": "g"
+            },
+            "Cholesterin": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Mineralstoffe": {
+                "amount": "",
+                "unit": "g"
+            }
+        },
+        "vitamins": {
+            "Vitamin A Retinol": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Vitamin D": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Vitamin E Aktiv.": {
+                "amount": "12,00",
+                "unit": "mg"
+            },
+            "Folsäure": {
+                "amount": "200,00",
+                "unit": "µg"
+            },
+            "Vitamin B1": {
+                "amount": "1,10",
+                "unit": "mg"
+            },
+            "Vitamin B2": {
+                "amount": "1,40",
+                "unit": "mg"
+            },
+            "Vitamin B6": {
+                "amount": "2,20",
+                "unit": "mg"
+            },
+            "Vitamin C": {
+                "amount": "80,00",
+                "unit": "mg"
+            },
+            "a-Tocopherol": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Vitamin K": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Nicotinamid": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Pantothensäure": {
+                "amount": "6,00",
+                "unit": "mg"
+            },
+            "Biotin": {
+                "amount": "50,00",
+                "unit": "µg"
+            },
+            "Vitamin B12": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Retinoläquivalent": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "ß-Carotin": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Niacinäquivalent": {
+                "amount": "16000,00",
+                "unit": "µg"
+            },
+            "freies Folsäureäquivalent": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "freie Folsäure": {
+                "amount": "",
+                "unit": "µg"
+            }
+        },
+        "minerals": {
+            "Natrium": {
+                "amount": "669,00",
+                "unit": "mg"
+            },
+            "Kalium": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Magnesium": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Calcium": {
+                "amount": "780,00",
+                "unit": "mg"
+            },
+            "Eisen": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Phosphor": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Kupfer": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Zink": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Chlorid": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Fluorid": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Jodid": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Selen": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Mangan": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Schwefel": {
+                "amount": "",
+                "unit": "µg"
+            }
+        }
+    },
+    {
+        "product_name": "1.2.3.-Chef-Frites TK McCain",
+        "main_nutrients": {
+            "Broteinheiten": {
+                "amount": "",
+                "unit": "BE"
+            },
+            "Kilokalorien": {
+                "amount": "151",
+                "unit": "kcal"
+            },
+            "Kilojoule": {
+                "amount": "636",
+                "unit": "kj"
+            },
+            "Eiweiß": {
+                "amount": "3,00",
+                "unit": "g"
+            },
+            "Fett": {
+                "amount": "4,00",
+                "unit": "g"
+            },
+            "Kohlenhydrate": {
+                "amount": "24,50",
+                "unit": "g"
+            },
+            "Alkohol": {
+                "amount": "",
+                "unit": "g"
+            },
+            "Wasser": {
+                "amount": "",
+                "unit": "g"
+            },
+            "Ballaststoffe gesamt": {
+                "amount": "2,50",
+                "unit": "g"
+            },
+            "Cholesterin": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Mineralstoffe": {
+                "amount": "",
+                "unit": "g"
+            }
+        },
+        "vitamins": {
+            "Vitamin A Retinol": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Vitamin D": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Vitamin E Aktiv.": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Folsäure": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Vitamin B1": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Vitamin B2": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Vitamin B6": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Vitamin C": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "a-Tocopherol": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Vitamin K": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Nicotinamid": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Pantothensäure": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Biotin": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Vitamin B12": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Retinoläquivalent": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "ß-Carotin": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Niacinäquivalent": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "freies Folsäureäquivalent": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "freie Folsäure": {
+                "amount": "",
+                "unit": "µg"
+            }
+        },
+        "minerals": {
+            "Natrium": {
+                "amount": "39,00",
+                "unit": "mg"
+            },
+            "Kalium": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Magnesium": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Calcium": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Eisen": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Phosphor": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Kupfer": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Zink": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Chlorid": {
+                "amount": "",
+                "unit": "mg"
+            },
+            "Fluorid": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Jodid": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Selen": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Mangan": {
+                "amount": "",
+                "unit": "µg"
+            },
+            "Schwefel": {
+                "amount": "",
+                "unit": "µg"
+            }
+        }
+    }
+]
